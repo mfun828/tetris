@@ -84,7 +84,7 @@ def generatePiece():
 
 
 
-def dropPiece(column,piece,board):
+# def dropPiece(column,piece,board):
 
 
 #def gamePlay(gameBoard):
